@@ -1,0 +1,8 @@
+{
+	"s3": {
+		"access_key": "AKIAYH57YDEWMHW2ESH2"
+		,"secret_key": "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"
+		,"bucket": "cct-ds-code-challenge-input-data"
+		,"region": "af-south-1"
+	}
+}
